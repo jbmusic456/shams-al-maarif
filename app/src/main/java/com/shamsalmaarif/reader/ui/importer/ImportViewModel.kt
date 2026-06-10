@@ -1,4 +1,4 @@
-package com.shamsalmaarif.reader.ui.import
+package com.shamsalmaarif.reader.ui.importer
 
 import android.content.Context
 import android.net.Uri

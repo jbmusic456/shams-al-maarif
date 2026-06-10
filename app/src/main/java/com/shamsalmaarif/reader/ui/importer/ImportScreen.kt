@@ -1,4 +1,4 @@
-package com.shamsalmaarif.reader.ui.import
+package com.shamsalmaarif.reader.ui.importer
 
 import android.net.Uri
 import androidx.activity.compose.rememberLauncherForActivityResult

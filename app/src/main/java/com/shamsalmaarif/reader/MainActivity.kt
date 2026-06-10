@@ -10,7 +10,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.shamsalmaarif.reader.ui.import.ImportScreen
+import com.shamsalmaarif.reader.ui.importer.ImportScreen
 import com.shamsalmaarif.reader.ui.library.LibraryScreen
 import com.shamsalmaarif.reader.ui.reader.ReaderScreen
 import com.shamsalmaarif.reader.ui.theme.ShamsTheme
